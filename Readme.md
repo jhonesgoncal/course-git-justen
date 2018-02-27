@@ -2,6 +2,8 @@
 
 um novo curso de git
 
-mudan√a
+mudan√ßa
 
 Gostou do curso? quer mais?
+
+outros cursos em: 
